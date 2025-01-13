@@ -1,7 +1,5 @@
 package class1;
 
-import java.sql.SQLOutput;
-
 public class ClassStart3 {
     public static void main(String[] args) {
         Student student1 = new Student();
