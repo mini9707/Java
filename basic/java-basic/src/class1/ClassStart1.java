@@ -13,6 +13,6 @@ public class ClassStart1 {
         System.out.println("이름 : " + student1Name + "나이 : " + student1Age + "성적 : " + student1Grade);
         System.out.println("이름 : " + student2Name + "나이 : " + student2Age + "성적 : " + student2Grade);
 
-        // 학생이 추가될 때마다 코드가 너무 길어진다
+        // 데이터가 추가 될 때마다 코드가 길어진다
     }
 }

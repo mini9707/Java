@@ -10,8 +10,8 @@ public class ClassStart2 {
             System.out.println("이름 : " + studentNames[i] + "나이 : " + studentAges[i] + "성적 : " + studentGrade[i]);
         }
 
-        // ClassStart1 클래스보다 추가해야 할 코드양이 적다
-        // 그러나, 데이터가 많을 때 한 학생의 데이터를 변경할 때 인덱스에 맞게 삭제해야 하는 경우
-        // 데이터를 삭제하는데 주의가 필요하다 (불편)
+        // ClassStart1 문제점을 배열로 해결
+        // 수정해야할 코드 양이 줄었지만 수정할 때 인덱스에 맞게 수정해야 함
+        // 사람이 관리하기 좋은 방식이 아님
     }
 }
